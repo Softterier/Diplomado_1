@@ -1,2 +1,2 @@
-# Diplomado_1
-prueba de Diplomado 01
+# Softterier
+Experimento ML para proyecto Diplomado 2018 
